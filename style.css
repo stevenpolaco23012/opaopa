@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0; 
+
+    background-color: blueviolet;
+}
+
+
+header{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content:        space-between;
+    background-color: rgb(53, 146, 122);
+}
+
+header  h1{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+    margin-right: 5px;
+
+}
+
+
+
+
+.chopo22{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.chopo1 img {
+    display: flex;
+    margin: 10px;
+    width: 100;
+
+
+}
+
+.chopo22 h1{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.chopo1 h1{
+    color: aqua;
+    font-family: monospace;
+}
+
+
+.chopo22 h1{
+    color: aqua;
+}
+
+
+
+footer {
+    background-color: aquamarine;
+}
